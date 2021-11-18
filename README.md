@@ -1,3 +1,3 @@
-# Basic Zava
+# Basic Java
 
 Let's study together
