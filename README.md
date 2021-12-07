@@ -1,6 +1,6 @@
 # Backend 🖥️
 > ### Basic Java 
->> check [Java] folder 
+>> -
 >> 
 >>
 <br/>
@@ -14,7 +14,7 @@
 <br/>
 
 > ### Basic SQLD
->> 
+>> -
 >> 
 
 <br/>
